@@ -1,10 +1,6 @@
-#include<iostream>
-#include<algorithm>
+#include <iostream>
 using namespace std;
-int main(){
-    int n = 5;
-    int e = 10;
-    int **edges = new int*[n];
-    edges[0] = new int[n];
-    cout<<*edges[0];
+int main()
+{
+    cout << max(5, 10);
 }
