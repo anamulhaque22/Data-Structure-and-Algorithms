@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << max(5, 10);
+    cout << max(5, 10)<<endl;
 }
